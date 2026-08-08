@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 100.86.18.3
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1785883550032
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1786156789963
+  login: 1786156780564
+money: '0'
+last-account-name: Julio_HZ
+lastlocation:
+  world: bbfacca8-fbe1-4b80-8a69-c67a52d222db
+  world-name: world
+  x: 171.3724856910018
+  y: 65.0
+  z: 98.91046599458713
+  yaw: -124.50137329101562
+  pitch: 21.300060272216797
+logoutlocation:
+  world: bbfacca8-fbe1-4b80-8a69-c67a52d222db
+  world-name: world
+  x: 333.30000001192093
+  y: 68.0
+  z: -77.30000001192093
+  yaw: -107.39558410644531
+  pitch: -2.550027370452881

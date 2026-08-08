@@ -1,0 +1,48 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 100.70.25.57
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1785983012736
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1785985204821
+  login: 1785982774718
+money: '0'
+last-account-name: Jordi_dior
+lastlocation:
+  world: bbfacca8-fbe1-4b80-8a69-c67a52d222db
+  world-name: world
+  x: 284.46348109054264
+  y: 63.0
+  z: -46.74485597537181
+  yaw: -58.65032196044922
+  pitch: 3.30000638961792
+logoutlocation:
+  world: bbfacca8-fbe1-4b80-8a69-c67a52d222db
+  world-name: world
+  x: 393.12230517383796
+  y: 67.5
+  z: 38.85417889368798
+  yaw: 114.66064453125
+  pitch: 15.89999008178711
+homes:
+  home:
+    world: bbfacca8-fbe1-4b80-8a69-c67a52d222db
+    world-name: world
+    x: 380.8628692293976
+    y: 62.0
+    z: 37.0945440001462
+    yaw: -102.788330078125
+    pitch: -1.1999497413635254

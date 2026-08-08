@@ -1,0 +1,88 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 100.109.18.74
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1785983638552
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1786156054415
+  login: 1786155856056
+money: '0'
+last-account-name: Tmw_juan
+logoutlocation:
+  world: bbfacca8-fbe1-4b80-8a69-c67a52d222db
+  world-name: world
+  x: 338.73341208424546
+  y: 94.0
+  z: 26.1325276455997
+  yaw: 75.30844116210938
+  pitch: 32.84996032714844
+lastlocation:
+  world: f662888b-6faf-489f-ae66-effd12e7f9d1
+  world-name: world_nether
+  x: -339.30000001192093
+  y: 34.0
+  z: -53.30000001192093
+  yaw: -71.255859375
+  pitch: 16.950183868408203
+homes:
+  home:
+    world: bbfacca8-fbe1-4b80-8a69-c67a52d222db
+    world-name: world
+    x: 340.19017219430503
+    y: 87.0
+    z: 24.280107784234694
+    yaw: -86.09976196289062
+    pitch: 25.800006866455078
+  mina:
+    world: bbfacca8-fbe1-4b80-8a69-c67a52d222db
+    world-name: world
+    x: -890.3688957904989
+    y: 66.0
+    z: 504.56968346483836
+    yaw: 67.5013427734375
+    pitch: 57.450016021728516
+  casa:
+    world: bbfacca8-fbe1-4b80-8a69-c67a52d222db
+    world-name: world
+    x: 340.8281414086326
+    y: 87.0
+    z: 24.780506507288077
+    yaw: 177.6085205078125
+    pitch: 13.34997844696045
+  arbol:
+    world: bbfacca8-fbe1-4b80-8a69-c67a52d222db
+    world-name: world
+    x: 72.76033070667714
+    y: 72.0
+    z: 2027.80474002203
+    yaw: -3.2880859375
+    pitch: 23.249990463256836
+  bioma:
+    world: bbfacca8-fbe1-4b80-8a69-c67a52d222db
+    world-name: world
+    x: 448.83047325252465
+    y: 84.0
+    z: 2127.890026567052
+    yaw: -43.638275146484375
+    pitch: 33.89999008178711
+  mansion:
+    world: bbfacca8-fbe1-4b80-8a69-c67a52d222db
+    world-name: world
+    x: 713.5569837501959
+    y: 75.0
+    z: 2028.323544817673
+    yaw: -89.988037109375
+    pitch: 8.850016593933105

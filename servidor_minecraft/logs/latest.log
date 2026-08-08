@@ -1,0 +1,306 @@
+[02:00:40] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.11+10-1-24.04.2-Ubuntu; Ubuntu null) on Linux 6.8.0-1052-azure (amd64)
+[02:00:40] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[02:00:40] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[02:00:41] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
+[02:00:41] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
+ - Essentials (2.22.0), LuckPerms (5.5.53)
+[02:00:46] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:00:48] [ServerMain/INFO]: Loaded 1407 recipes
+[02:00:48] [ServerMain/INFO]: Loaded 1520 advancements
+[02:00:48] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[02:00:49] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 426.5ms
+[02:00:49] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[02:00:49] [Server thread/INFO]: Loading properties
+[02:00:49] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[02:00:49] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[02:00:49] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:00:49] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:00:50] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[02:00:50] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[02:00:50] [Server thread/INFO]: Default game type: SURVIVAL
+[02:00:50] [Server thread/INFO]: Generating keypair
+[02:00:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:00:50] [Server thread/INFO]: Using epoll channel type
+[02:00:50] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:00:50] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[02:00:51] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.53
+[02:00:51] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[02:00:51] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.22.0
+[02:00:51] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:00:51] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.53
+[02:00:51] [Server thread/INFO]:         __    
+[02:00:51] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.53
+[02:00:51] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[02:00:51] [Server thread/INFO]: 
+[02:00:54] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[02:00:54] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[02:00:54] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[02:00:55] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 3524ms)
+[02:00:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:00:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:00:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:00:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:00:55] [Server thread/INFO]: Preparing level "world"
+[02:00:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:00:56] [Server thread/INFO]: Preparing spawn area: 0%
+[02:00:56] [Server thread/INFO]: Preparing spawn area: 2%
+[02:00:57] [Server thread/INFO]: Preparing spawn area: 20%
+[02:00:57] [Server thread/INFO]: Time elapsed: 1019 ms
+[02:00:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:00:57] [Server thread/INFO]: Preparing spawn area: 0%
+[02:00:57] [Server thread/INFO]: Preparing spawn area: 83%
+[02:00:57] [Server thread/INFO]: Time elapsed: 543 ms
+[02:00:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:00:57] [Server thread/INFO]: Preparing spawn area: 0%
+[02:00:57] [Server thread/INFO]: Time elapsed: 102 ms
+[02:00:57] [Server thread/INFO]: [Essentials] Enabling Essentials v2.22.0
+[02:00:58] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[02:00:58] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[02:00:58] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[02:00:58] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[02:00:58] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[02:00:58] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[02:00:58] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[02:00:58] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[02:00:58] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[02:00:58] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[02:00:58] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[02:00:58] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[02:00:58] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[02:00:58] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[02:00:58] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[02:00:58] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[02:00:58] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[02:00:58] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[02:00:58] [Server thread/INFO]: [Essentials] Selected Paper 1.13+ Tile Entity Provider as the provider for TileEntityProvider
+[02:00:58] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[02:00:58] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[02:00:58] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[02:00:58] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
+[02:00:58] [Server thread/INFO]: [Essentials] Selected Legacy Biome Name Provider as the provider for BiomeNameProvider
+[02:00:58] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[02:00:58] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[02:00:58] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[02:00:58] [Server thread/INFO]: [Essentials] Loaded 46312 items from items.json.
+[02:00:58] [Server thread/INFO]: [Essentials] Using locale en
+[02:00:59] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[02:00:59] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[02:00:59] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[02:00:59] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[02:00:59] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[02:00:59] [Server thread/INFO]: [spark] Starting background profiler...
+[02:00:59] [Server thread/INFO]: Done preparing level "world" (4.573s)
+[02:00:59] [Server thread/INFO]: Running delayed init tasks
+[02:00:59] [Craft Scheduler Thread - 3 - Essentials/INFO]: [Essentials] Fetching version information...
+[02:00:59] [Server thread/INFO]: Done (20.228s)! For help, type "help"
+[02:11:05] [User Authenticator #0/INFO]: UUID of player Tmw_juan is ef70cbbe-001b-3964-9e89-729cf4147a2d
+[02:11:05] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [LuckPerms]
+[02:11:07] [Server thread/INFO]: Tmw_juan joined the game
+[02:11:07] [Server thread/INFO]: Tmw_juan[/100.109.18.74:55380] logged in with entity id 26 at ([world]345.35936099439164, 93.0, 20.89585885934329)
+[02:11:23] [Server thread/INFO]: Tmw_juan issued server command: /time set day
+[02:14:31] [Server thread/INFO]: Tmw_juan has made the advancement [Crafting a New Look]
+[02:15:12] [Server thread/INFO]: Tmw_juan issued server command: /gamemode creative
+[02:15:51] [Server thread/INFO]: Tmw_juan issued server command: /gamemode survival
+[02:16:23] [Server thread/INFO]: Tmw_juan issued server command: /gamemode creative
+[02:16:34] [Server thread/INFO]: Tmw_juan issued server command: /gamemode survival
+[02:17:53] [Server thread/INFO]: Tmw_juan issued server command: /gamemode creative
+[02:18:37] [Server thread/INFO]: Tmw_juan issued server command: /gamemode survival
+[02:19:55] [Server thread/INFO]: Tmw_juan issued server command: /gamemode creative
+[02:20:09] [Server thread/INFO]: Tmw_juan issued server command: /gamemode survival
+[02:22:41] [Server thread/INFO]: Tmw_juan issued server command: /time set day
+[02:23:51] [Server thread/INFO]: Tmw_juan was kicked due to keepalive timeout!
+[02:23:51] [Server thread/INFO]: Tmw_juan lost connection: Timed out
+[02:23:52] [Server thread/INFO]: Tmw_juan left the game
+[02:24:08] [User Authenticator #1/INFO]: UUID of player Tmw_juan is ef70cbbe-001b-3964-9e89-729cf4147a2d
+[02:24:11] [Server thread/INFO]: Connection closed during protocol change
+[02:24:11] [Server thread/INFO]: Tmw_juan lost connection: Disconnected
+[02:24:11] [Server thread/INFO]: Tmw_juan left the game
+[02:24:12] [User Authenticator #1/INFO]: UUID of player Tmw_juan is ef70cbbe-001b-3964-9e89-729cf4147a2d
+[02:24:16] [Server thread/INFO]: Tmw_juan joined the game
+[02:24:16] [Server thread/INFO]: Tmw_juan[/100.109.18.74:56202] logged in with entity id 2269 at ([world]334.72675170130447, 95.0, 34.758080273714356)
+[02:24:32] [Server thread/INFO]: Tmw_juan issued server command: /xp add Tmw_juan 10 levels
+[02:24:32] [Server thread/ERROR]: [Essentials] Command xp failed:
+java.util.MissingResourceException: Can't find resource for bundle java.util.PropertyResourceBundle, key expCommandUsage3Description
+	at java.base/java.util.ResourceBundle.getObject(ResourceBundle.java:567) ~[?:?]
+	at java.base/java.util.ResourceBundle.getObject(ResourceBundle.java:561) ~[?:?]
+	at java.base/java.util.ResourceBundle.getString(ResourceBundle.java:523) ~[?:?]
+	at EssentialsX-2.22.0.jar/com.earth2me.essentials.I18n.translate(I18n.java:167) ~[EssentialsX-2.22.0.jar:?]
+	at EssentialsX-2.22.0.jar/com.earth2me.essentials.I18n.tlLocale(I18n.java:93) ~[EssentialsX-2.22.0.jar:?]
+	at EssentialsX-2.22.0.jar/com.earth2me.essentials.I18n.tlLiteral(I18n.java:77) ~[EssentialsX-2.22.0.jar:?]
+	at EssentialsX-2.22.0.jar/com.earth2me.essentials.User.playerTl(User.java:1145) ~[EssentialsX-2.22.0.jar:?]
+	at EssentialsX-2.22.0.jar/com.earth2me.essentials.CommandSource.tl(CommandSource.java:45) ~[EssentialsX-2.22.0.jar:?]
+	at EssentialsX-2.22.0.jar/com.earth2me.essentials.Essentials.onCommandEssentials(Essentials.java:842) ~[EssentialsX-2.22.0.jar:?]
+	at EssentialsX-2.22.0.jar/com.earth2me.essentials.Essentials.onCommand(Essentials.java:724) ~[EssentialsX-2.22.0.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:83) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:451) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:357) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:345) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2313) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$12(ServerGamePacketListenerImpl.java:2286) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1449) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1429) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1423) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1380) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1388) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1265) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[02:25:10] [Server thread/INFO]: Tmw_juan issued server command: /xp give Tmw_juan 10 levels
+[02:25:10] [Server thread/ERROR]: [Essentials] Command xp failed:
+java.util.MissingResourceException: Can't find resource for bundle java.util.PropertyResourceBundle, key expCommandUsage3Description
+	at java.base/java.util.ResourceBundle.getObject(ResourceBundle.java:567) ~[?:?]
+	at java.base/java.util.ResourceBundle.getObject(ResourceBundle.java:561) ~[?:?]
+	at java.base/java.util.ResourceBundle.getString(ResourceBundle.java:523) ~[?:?]
+	at EssentialsX-2.22.0.jar/com.earth2me.essentials.I18n.translate(I18n.java:167) ~[EssentialsX-2.22.0.jar:?]
+	at EssentialsX-2.22.0.jar/com.earth2me.essentials.I18n.tlLocale(I18n.java:93) ~[EssentialsX-2.22.0.jar:?]
+	at EssentialsX-2.22.0.jar/com.earth2me.essentials.I18n.tlLiteral(I18n.java:77) ~[EssentialsX-2.22.0.jar:?]
+	at EssentialsX-2.22.0.jar/com.earth2me.essentials.User.playerTl(User.java:1145) ~[EssentialsX-2.22.0.jar:?]
+	at EssentialsX-2.22.0.jar/com.earth2me.essentials.CommandSource.tl(CommandSource.java:45) ~[EssentialsX-2.22.0.jar:?]
+	at EssentialsX-2.22.0.jar/com.earth2me.essentials.Essentials.onCommandEssentials(Essentials.java:842) ~[EssentialsX-2.22.0.jar:?]
+	at EssentialsX-2.22.0.jar/com.earth2me.essentials.Essentials.onCommand(Essentials.java:724) ~[EssentialsX-2.22.0.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:83) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:451) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:357) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:345) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2313) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$12(ServerGamePacketListenerImpl.java:2286) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1449) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1429) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1423) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1380) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1388) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1265) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[02:26:04] [Server thread/INFO]: Tmw_juan issued server command: /give exp Tmw_juan 10 levels
+[02:26:09] [Server thread/INFO]: Tmw_juan issued server command: /gamemode creative
+[02:26:22] [Server thread/INFO]: Tmw_juan issued server command: /gamemode survival
+[02:27:34] [Server thread/INFO]: Tmw_juan lost connection: Disconnected
+[02:27:34] [Server thread/INFO]: Tmw_juan left the game
+[02:31:09] [User Authenticator #2/INFO]: UUID of player Julio_HZ is 176ff5a1-332f-3cf6-a9df-3870d6cff6ea
+[02:31:10] [Server thread/INFO]: Julio_HZ joined the game
+[02:31:10] [Server thread/INFO]: Julio_HZ[/100.86.18.3:56717] logged in with entity id 3274 at ([world]388.420520829055, 70.0, -32.81725295127582)
+[02:31:43] [Server thread/INFO]: Julio_HZ was kicked due to keepalive timeout!
+[02:31:43] [Server thread/INFO]: Julio_HZ lost connection: Timed out
+[02:31:44] [Server thread/INFO]: Julio_HZ left the game
+[02:32:21] [User Authenticator #3/INFO]: UUID of player Julio_HZ is 176ff5a1-332f-3cf6-a9df-3870d6cff6ea
+[02:32:22] [Server thread/INFO]: Julio_HZ joined the game
+[02:32:22] [Server thread/INFO]: Julio_HZ[/100.86.18.3:54146] logged in with entity id 3473 at ([world]367.4356050125891, 69.0, -44.506515731965514)
+[02:32:55] [Server thread/INFO]: Julio_HZ was kicked due to keepalive timeout!
+[02:32:55] [Server thread/INFO]: Julio_HZ lost connection: Timed out
+[02:32:56] [Server thread/INFO]: Julio_HZ left the game
+[02:33:30] [User Authenticator #4/INFO]: UUID of player Julio_HZ is 176ff5a1-332f-3cf6-a9df-3870d6cff6ea
+[02:33:30] [Server thread/INFO]: Julio_HZ joined the game
+[02:33:30] [Server thread/INFO]: Julio_HZ[/100.86.18.3:54209] logged in with entity id 3761 at ([world]279.3606647286756, 64.42489527365518, -56.654698015446684)
+[02:34:04] [Server thread/INFO]: Julio_HZ was kicked due to keepalive timeout!
+[02:34:04] [Server thread/INFO]: Julio_HZ lost connection: Timed out
+[02:34:04] [Server thread/INFO]: Julio_HZ left the game
+[02:34:21] [Netty Epoll Server IO #1/WARN]: Failed to deliver packet, sending fallback clientbound/minecraft:system_chat
+io.netty.channel.StacklessClosedChannelException: null
+	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+[02:34:21] [Netty Epoll Server IO #1/WARN]: Failed to deliver packet, sending fallback clientbound/minecraft:system_chat
+io.netty.channel.StacklessClosedChannelException: null
+	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+[02:34:52] [User Authenticator #5/INFO]: UUID of player Julio_HZ is 176ff5a1-332f-3cf6-a9df-3870d6cff6ea
+[02:34:53] [Server thread/INFO]: Julio_HZ joined the game
+[02:34:53] [Server thread/INFO]: Julio_HZ[/100.86.18.3:53997] logged in with entity id 3937 at ([world]268.5, 64.0, -47.5)
+[02:35:26] [Server thread/INFO]: Julio_HZ was kicked due to keepalive timeout!
+[02:35:26] [Server thread/INFO]: Julio_HZ lost connection: Timed out
+[02:35:27] [Server thread/INFO]: Julio_HZ left the game
+[02:35:47] [User Authenticator #5/INFO]: UUID of player Julio_HZ is 176ff5a1-332f-3cf6-a9df-3870d6cff6ea
+[02:35:48] [Server thread/INFO]: Julio_HZ joined the game
+[02:35:48] [Server thread/INFO]: Julio_HZ[/100.86.18.3:54041] logged in with entity id 4110 at ([world]272.89327167234956, 62.427157511348476, -66.16126037899596)
+[02:36:20] [Server thread/INFO]: Julio_HZ was kicked due to keepalive timeout!
+[02:36:20] [Server thread/INFO]: Julio_HZ lost connection: Timed out
+[02:36:21] [Server thread/INFO]: Julio_HZ left the game
+[02:37:09] [User Authenticator #6/INFO]: UUID of player Julio_HZ is 176ff5a1-332f-3cf6-a9df-3870d6cff6ea
+[02:37:10] [Server thread/INFO]: Julio_HZ joined the game
+[02:37:10] [Server thread/INFO]: Julio_HZ[/100.86.18.3:54110] logged in with entity id 4277 at ([world]273.5071005411016, 64.0, -46.23750001192093)
+[02:37:43] [Server thread/INFO]: Julio_HZ was kicked due to keepalive timeout!
+[02:37:43] [Server thread/INFO]: Julio_HZ lost connection: Timed out
+[02:37:44] [Server thread/INFO]: Julio_HZ left the game
+[02:38:14] [Netty Epoll Server IO #2/WARN]: Failed to deliver packet, sending fallback clientbound/minecraft:system_chat
+io.netty.channel.StacklessClosedChannelException: null
+	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+[02:38:14] [Netty Epoll Server IO #2/WARN]: Failed to deliver packet, sending fallback clientbound/minecraft:system_chat
+io.netty.channel.StacklessClosedChannelException: null
+	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+[02:38:18] [User Authenticator #7/INFO]: UUID of player Julio_HZ is 176ff5a1-332f-3cf6-a9df-3870d6cff6ea
+[02:38:21] [Server thread/INFO]: Julio_HZ joined the game
+[02:38:21] [Server thread/INFO]: Julio_HZ[/100.86.18.3:54147] logged in with entity id 4455 at ([world]312.54253082425834, 59.39999997615814, -47.98834622512094)
+[02:38:53] [Server thread/INFO]: Julio_HZ lost connection: Disconnected
+[02:38:53] [Server thread/INFO]: Julio_HZ left the game
+[02:39:14] [User Authenticator #7/INFO]: UUID of player Julio_HZ is 176ff5a1-332f-3cf6-a9df-3870d6cff6ea
+[02:39:15] [Server thread/INFO]: Julio_HZ joined the game
+[02:39:15] [Server thread/INFO]: Julio_HZ[/100.86.18.3:54352] logged in with entity id 4672 at ([world]333.30000001192093, 68.0, -77.30000001192093)
+[02:39:39] [User Authenticator #7/INFO]: UUID of player Julio_HZ is 176ff5a1-332f-3cf6-a9df-3870d6cff6ea
+[02:39:39] [Server thread/INFO]: Julio_HZ lost connection: You logged in from another location
+[02:39:39] [Server thread/INFO]: Julio_HZ left the game
+[02:39:40] [Server thread/INFO]: Julio_HZ joined the game
+[02:39:40] [Server thread/INFO]: Julio_HZ[/100.86.18.3:54382] logged in with entity id 4860 at ([world]333.30000001192093, 68.0, -77.30000001192093)
+[02:39:49] [Server thread/INFO]: Julio_HZ lost connection: Disconnected
+[02:39:50] [Server thread/INFO]: Julio_HZ left the game
+[03:59:52] [Server thread/INFO]: Stopping the server
+[03:59:53] [Server thread/INFO]: Stopping server
+[03:59:53] [Server thread/INFO]: [Essentials] Disabling Essentials v2.22.0
+[03:59:53] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.53
+[03:59:53] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[03:59:53] [Server thread/INFO]: [LuckPerms] Closing storage...
+[03:59:53] [Server thread/INFO]: [LuckPerms] Goodbye!
+[03:59:53] [Server thread/INFO]: Saving players
+[03:59:53] [Server thread/INFO]: Saving worlds
+[03:59:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:59:54] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[03:59:54] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[03:59:54] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[03:59:54] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 42 entity chunks, 0 poi chunks in world 'world' in 0.52s
+[03:59:54] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[03:59:54] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[03:59:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[03:59:55] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[03:59:55] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[03:59:55] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[03:59:55] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 9 entity chunks, 0 poi chunks in world 'world_nether' in 0.32s
+[03:59:55] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[03:59:55] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[03:59:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[03:59:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[03:59:56] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[03:59:56] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[03:59:56] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.31s
+[03:59:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[03:59:56] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[03:59:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:59:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:59:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:59:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:59:56] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[03:59:56] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[03:59:56] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[03:59:56] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...

@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 100.122.192.118
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1785957194225
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1785985692071
+  login: 1785979593338
+money: '0'
+last-account-name: eley_n11
+lastlocation:
+  world: bbfacca8-fbe1-4b80-8a69-c67a52d222db
+  world-name: world
+  x: 281.3885851553154
+  y: 63.0
+  z: -60.17188221758216
+  yaw: 49.49981689453125
+  pitch: -1.3500066995620728
+logoutlocation:
+  world: bbfacca8-fbe1-4b80-8a69-c67a52d222db
+  world-name: world
+  x: 280.69999998807907
+  y: 68.0
+  z: -54.076868040491
+  yaw: 13.349609375
+  pitch: -1.499929428100586
